@@ -51,4 +51,4 @@ if __name__ == '__main__':
     print(len(open('data/cnews/cnews.train.txt', 'r', encoding='utf-8').readlines()))
     print(len(open('data/cnews/cnews.test.txt', 'r', encoding='utf-8').readlines()))
     print(len(open('data/cnews/cnews.val.txt', 'r', encoding='utf-8').readlines()))
-	print("end")
+	print("WW")
