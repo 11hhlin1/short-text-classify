@@ -47,8 +47,8 @@ def save_file(dirname):
 
 if __name__ == '__main__':
     save_file('data/thucnews')
+	print("start")
     print(len(open('data/cnews/cnews.train.txt', 'r', encoding='utf-8').readlines()))
     print(len(open('data/cnews/cnews.test.txt', 'r', encoding='utf-8').readlines()))
     print(len(open('data/cnews/cnews.val.txt', 'r', encoding='utf-8').readlines()))
 	print("WW")
-
