@@ -51,3 +51,4 @@ if __name__ == '__main__':
     print(len(open('data/cnews/cnews.test.txt', 'r', encoding='utf-8').readlines()))
 	print("master")
     print(len(open('data/cnews/cnews.val.txt', 'r', encoding='utf-8').readlines()))
+	print("test")
